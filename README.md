@@ -126,12 +126,12 @@ Wedevspro  ·  Founder & Full-Stack Developer
 
 </div>
 
-**🧑‍💻 Founder & Full-Stack Developer · Wedevspro** <sub>2019 — present</sub>
+**🧑‍💻 Founder & Full-Stack Developer · Wedevspro** <sub>2019 — present(inactive)</sub>
 - 250+ projects for local & international clients
 - Laravel / PHP / MySQL / WordPress — full lifecycle ownership
 - Payments, SMS, WhatsApp & courier API integrations; hosting, DNS, prod troubleshooting
 
-**🏪 Co-Founder & Managing Director · Khati Food Bazar** <sub>2023 — present</sub>
+**🏪 Co-Founder & Managing Director · Khati Food Bazar** <sub>2023 — 2026</sub>
 - Run end-to-end e-commerce ops for the business I founded
 - Built the management system it runs on · lead a 15+ member team
 - Social media marketing, promotions, sourcing & supplier coordination
@@ -157,7 +157,7 @@ Open to **Full-Stack / Laravel / PHP / WordPress Plugin** work — remote (EU, U
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-sazzad/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.sazzad.me@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ai.khatifoodbazar.com/wa/portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sazzad.wedevspro.com/)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/developersazzad)
 
 **📧 developer.sazzad.me@gmail.com &nbsp;·&nbsp; 📱whatsapp +880 187785-5651**
